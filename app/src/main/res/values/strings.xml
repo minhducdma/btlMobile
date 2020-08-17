@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Movie Application</string>
+    <string name="simple_text">Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem </string>
+
+    <string-array name="title">
+        <item>Avenger 2</item>
+        <item>Wolverine 2</item>
+        <item>Blood Diamond</item>
+        <item>Mission Impossible</item>
+        <item>FAST AND FURIOUS 9</item>
+        <item>Warcraft</item>
+        <item>Titanic</item>
+        <item>Harry Potter</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Banner dành cả thời lượng bộ phim để tái hòa nhập với đội Avengers và "chứng minh cho mọi người thấy sự nguy hiểm của Thanos".</item>
+        <item>X-Men: The Last Stand và Người Sói nhận được ý kiến phê bình ít khả quan hơn. Với mười một phim đã ra mắt tính tới năm 2018</item>
+        <item>Blood Diamond is a 2006 political war thriller film co-produced and directed by Edward Zwick and starring Leonardo DiCaprio, Jennifer Connelly</item>
+        <item>Mission: Impossible is a series of American action spy films both based on ... whose character is Ethan Hunt, an agent of the Impossible Missions Force (IMF).</item>
+        <item>F9 là một bộ phim hành động sắp ra mắt của Mỹ do Justin Lin đạo diễn và Daniel Casey viết kịch bản. Phần tiếp theo của The Fate of the Furious 2017</item>
+        <item>Warcraft: Đại chiến hai thế giới là bộ phim sử thi viễn tưởng của Mỹ. Đây là bộ phim của đạo diễn Duncan Jones, dựa theo kịch bản của Charles Leavitt và Chris Metzen.</item>
+        <item>Titanic là một bộ phim điện ảnh lãng mạn thảm họa sử thi của Mỹ phát hành năm 1997, do James Cameron làm đạo diễn, viết kịch bản, đồng sản xuất, đồng biên tập và hỗ trợ tài chính một phần.</item>
+        <item>Harry Potter và Tên tù nhân ngục Azkaban là bộ phim tưởng tượng-phiêu lưu năm 2004, dựa trên tiểu thuyết cùng tên của J. K. Rowling. Do nhà làm phim Alfonso Cuarón người Mexico</item>
+    </string-array>
+
+    <string-array name="url">
+        <item>6ZfuNTqbHE8</item>
+        <item>toLpchTUYk8</item>
+        <item>yknIZsvQjG4</item>
+        <item>wb49-oV0F78</item>
+        <item>Kopyc23VfSw</item>
+        <item>JHcLl27dv1g</item>
+        <item>kVrqfYjkTdQ</item>
+        <item>lAxgztbYDbs</item>
+    </string-array>
+</resources>
